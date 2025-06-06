@@ -127,7 +127,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Design inspiration from modern e-commerce platforms
 - Product images used for demonstration purposes
 - CSS animations and transitions for enhanced user experience
-
----
-
-*Built with ❤️ by naakaarafr*
